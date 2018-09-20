@@ -1,0 +1,41 @@
+_repo: Lemmentarina_53221
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Vuorjoki, U. J.
+    alias: Vuorjoki, Uuno Johannes (Hannes)
+    birthdate: 1877
+    deathdate: 1944
+    gutenberg_agent_id: '47274'
+    url: http://www.gutenberg.org/2009/agents/47274
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Тургенев, Иван Сергеевич
+    - Toergenev, Ivan
+    - Turgénieff, Iván
+    - Tourgueneff, Ivan
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+description: ''
+gutenberg_issued: '2016-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53221'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Turgenev, Ivan Sergeevich, 1818-1883 -- Translations into Finnish'
+- GITenberg
+tableOfContents: Lemmentarina -- Jakov Pasynkov -- Uni -- Juutalainen -- Lääkärin
+  muistelma.
+title: Lemmentarina
+url: http://www.gutenberg.org/ebooks/53221
